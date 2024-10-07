@@ -1,0 +1,12 @@
+1. Id vs class (search on chatgpt or google)
+
+2. https://www.w3schools.com/css/css_boxmodel.asp 
+
+3. display:none; vs visibility:hidden;   (search on chatgpt or google)
+ chatgpt:  https://chatgpt.com/share/66fd9111-a5b0-800d-9912-250e0fd2cb99
+
+4. https://www.w3schools.com/css/css3_shadows_box.asp
+
+5. CSS display property:
+  a. https://www.w3schools.com/cssref/pr_class_display.php
+  b. https://developer.mozilla.org/en-US/docs/Web/CSS/display
